@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Wall
   - DeadZone
+  - Brick
+  - Ball
+  - Paddle
   layers:
   - Default
   - TransparentFX
